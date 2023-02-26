@@ -1,0 +1,16 @@
+body {
+  border: red solid 5px;
+  background-color: lightgoldenrodyellow;
+}
+
+img {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+} 
+
+.middletext {
+  text-align: center;
+}
