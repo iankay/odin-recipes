@@ -1,5 +1,15 @@
+.list {
+ background-color: gold;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ border-radius: 10px;
+}
+
+p {
+  font-size: 20px;
+}
+
 body {
-  border: red solid 5px;
   background-color: lightgoldenrodyellow;
 }
 
@@ -13,4 +23,10 @@ img {
 
 .middletext {
   text-align: center;
+  font-weight: bold;
 }
+
+h1 {
+  font-family: cursive;
+  font-size: 50px;
+{
